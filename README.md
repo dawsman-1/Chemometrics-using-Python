@@ -5,3 +5,11 @@ Methods include:
 * Least Squares Regression
 * Linear Discriminant Analysis
 * Principal Component Analysis
+
+### Dependencies
+* pandas
+* numpy
+* matplotlib
+* seaborn
+* scipy
+* sklearn

@@ -6,7 +6,7 @@ Methods include:
 * Linear Discriminant Analysis
 * Principal Component Analysis
 
-### Dependencies
+## Dependencies
 * pandas
 * numpy
 * matplotlib

@@ -13,3 +13,4 @@ Methods include:
 * seaborn
 * scipy
 * sklearn
+* pca
